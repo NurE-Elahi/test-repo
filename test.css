@@ -1,0 +1,28 @@
+h1{
+   color: green;
+   background-color: cyan;
+   width: 50%;
+   text-align: center;
+   font-size: 3em;
+}
+.git-work{
+    color: red;
+    background-color: yellow;
+    font-weight: 800;
+    text-align: justify;
+    font-size: 25px;
+}
+.image{
+    color: brown;
+    background-color: cyan;
+    font-weight: 800;
+    text-align: justify;
+    font-size: 25px;
+}
+.external-css{
+    color: black;
+    background-color: grey;
+    font-weight: 800;
+    text-align: justify;
+    font-size: 25px;
+}
